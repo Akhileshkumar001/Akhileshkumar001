@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=hsihsa8789)
+![Profile Views](https://komarev.com/ghpvc/?username=Akhileshkumar001)
  
 ## Hey 👋, I'm Akhilesh Kumar!
 
@@ -21,10 +21,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 - 🔭 &nbsp; I’m currently working on **building an ecommerce**
 - 🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient
-- 📫 &nbsp;How to reach me , you can email me at ashish.dubey8789@gmail.com
+- 📫 &nbsp;How to reach me , you can email me at akhileshkumar824112@gmail.com
 - 💻 &nbsp;I am actively looking for jobs for the role of SDE.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ashish-dubey-150163190/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/akhilesh-kumar-a596b81a7/)
 - 📝 &nbsp; Checkout my [resume](<https://drive.google.com/file/d/1ej4PE5XxuuS7qm_3Hvx-wqM8GR-0kfjI/view?usp=share_link>)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels.
 <br>
@@ -68,6 +68,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a> -->
 
 <!---
-goelabhishek694/goelabhishek694 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Akhileshkumar001/Akhileshkumar001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
